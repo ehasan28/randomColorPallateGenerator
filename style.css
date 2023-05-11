@@ -48,10 +48,10 @@ body {
     padding: 12px 20px;
     font-size: 1.1rem;
     color: #fff;
-    background: #8a6cff;
+    background: #000;
     cursor: pointer;
     border-radius: 6px;
-    box-shadow: 0 10px 20px rgba(52, 87, 220, 0.75);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
     font-weight: 500;
     position: fixed;
     left: 50%;
